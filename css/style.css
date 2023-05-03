@@ -1045,10 +1045,10 @@ footerbox {
 }
 
 .slider-text-wrapper .btn {
-	margin-top: 50px;
+	margin-top: 60px;
 	border: 3px solid #2c79d1;
 	border-radius: 10px;
-	background:transparent;
+	background: #2c79d1;
 	color:#FFF;
 }
 
