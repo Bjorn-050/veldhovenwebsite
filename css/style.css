@@ -523,9 +523,10 @@ footerbox {
 }
 
 .btn-white {
-	background:#FFF;
+	background:#0050d8;
 	border-color: FFFF;
 	color:#5F5A5A;
+	padding: 10px;
 }
 
 .btn-white2 {
@@ -3472,6 +3473,8 @@ footer {
 
 .copyright {
 	margin-top: 15px;
+	align-items: center;
+	text-align: center;
 }
 
 .copyright p{
